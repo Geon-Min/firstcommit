@@ -1,4 +1,8 @@
 firstcommit
-second commit;
 
 비개발자가 원격으로 수정을 당했습니다.
+
+수정 당했습니다.
+수정 수정 수정
+
+second commit;
